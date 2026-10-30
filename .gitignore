@@ -1,0 +1,8 @@
+node_modules/
+runtime/
+state/
+bin/
+.DS_Store
+.env
+.env.*
+*.key
